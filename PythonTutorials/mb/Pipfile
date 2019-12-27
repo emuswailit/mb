@@ -9,6 +9,7 @@ flake8 = "*"
 
 [packages]
 django = "==2.1.8"
+gunicorn = "==19.9.0"
 
 [requires]
 python_version = "3.7"
